@@ -1,5 +1,5 @@
 # aone-ui-cli 
-## use
+## about use
 ### install
 `pnpm i aone-ui-cli`
 ### create a component
